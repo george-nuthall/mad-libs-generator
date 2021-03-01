@@ -9,7 +9,6 @@ Get a generated mad lib using adjective, verb and noun inputs
 2. `python mad-libs-generator.py`
 
 ## Limitations
-n/a
 
 ## Future Improvements
 1. Add more to the mad-libs list
